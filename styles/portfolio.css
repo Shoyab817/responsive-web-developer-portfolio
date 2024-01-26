@@ -110,5 +110,18 @@ nav a {
 .section-description {
     color: #757575;
     text-align: center;
-    font-size: 18px;
+    font-size: 18px; 
+} 
+
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}      
+
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.about-info{
+    text-align: center;
 }
